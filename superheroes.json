@@ -1,0 +1,40 @@
+{
+  "squadName" : "Chapulin Colorado",
+  "homeTown" : "México",
+  "formed" : 2009,
+  "secretBase" : "Cuautitlan Izcalli",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Ant-Man",
+      "age" : 29,
+      "secretIdentity" : "Dr.Henry-Hank-Pym",
+      "powers" : [
+        "Cambiar Tamaño",
+        "Comunicarse con insectos"
+      ]
+    },
+    {
+      "name" : "Buja Escarlata",
+      "age" : 28,
+      "secretIdentity" : "Wanda Maximoff",
+      "powers" : [
+        "Magia del Caos",
+        "Hechizos",
+        "Reescribir la Realidad"
+      ]
+    },
+    {
+      "name" : "Caballero Luna",
+      "age" : 36,
+      "secretIdentity" : "Marc Spector",
+      "powers" : [
+        "Luchador",
+        "Piloto",
+        "Gimnasta",
+        "Tirador",
+        "Maneja Armas Modificadas"
+      ]
+    }
+  ]
+}
